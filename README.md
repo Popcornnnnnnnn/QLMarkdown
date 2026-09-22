@@ -8,6 +8,8 @@
 
 # QLMarkdown
 
+**English** · [简体中文](README.zh-CN.md)
+
 QLMarkdown is a Mac OS application that provides:
 - a Quick Look extension for viewing Markdown files
 - an experimental Shortcut extension for converting Markdown files to HTML
